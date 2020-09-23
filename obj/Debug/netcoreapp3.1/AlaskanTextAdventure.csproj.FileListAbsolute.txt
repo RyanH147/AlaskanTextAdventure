@@ -1,0 +1,13 @@
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\bin\Debug\netcoreapp3.1\AlaskanTextAdventure.exe
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\bin\Debug\netcoreapp3.1\AlaskanTextAdventure.deps.json
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\bin\Debug\netcoreapp3.1\AlaskanTextAdventure.runtimeconfig.json
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\bin\Debug\netcoreapp3.1\AlaskanTextAdventure.runtimeconfig.dev.json
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\bin\Debug\netcoreapp3.1\AlaskanTextAdventure.dll
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\bin\Debug\netcoreapp3.1\AlaskanTextAdventure.pdb
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\obj\Debug\netcoreapp3.1\AlaskanTextAdventure.csprojAssemblyReference.cache
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\obj\Debug\netcoreapp3.1\AlaskanTextAdventure.AssemblyInfoInputs.cache
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\obj\Debug\netcoreapp3.1\AlaskanTextAdventure.AssemblyInfo.cs
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\obj\Debug\netcoreapp3.1\AlaskanTextAdventure.csproj.CoreCompileInputs.cache
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\obj\Debug\netcoreapp3.1\AlaskanTextAdventure.dll
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\obj\Debug\netcoreapp3.1\AlaskanTextAdventure.pdb
+C:\Users\The Hagoods\Desktop\repos\AlaskanTextAdventure\AlaskanTextAdventure\AlaskanTextAdventure\obj\Debug\netcoreapp3.1\AlaskanTextAdventure.genruntimeconfig.cache
